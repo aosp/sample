@@ -540,6 +540,21 @@
       type="mms"
   />
 
+  <apn carrier="Free"
+      mcc="208"
+      mnc="15"
+      apn="free"
+      type="default,supl"
+  />
+
+  <apn carrier="Free MMS"
+      mcc="208"
+      mnc="15"
+      mmsc="http://mms.free.fr"
+      apn="mmsfree"
+      type="mms"
+  />
+
   <apn carrier="Internet movil"
       mcc="214"
       mnc="01"
@@ -3647,10 +3662,24 @@
       type="default,supl,mms"
   />
 
+    <apn carrier="Koodo"
+      mcc="302"
+      mnc="220"
+      apn="sp.koodo.com"
+      proxy="74.49.0.18"
+      port="80"
+      mmsc="http://aliasredirect.net/proxy/koodo/mmsc"
+      mmsproxy="74.49.0.18"
+      mmsport="80"
+      type="default,supl,mms"
+  />
+
   <apn carrier="MOWAP"
       mcc="302"
       mnc="320"
       apn="wap.davewireless.com"
+      proxy="10.100.3.4"
+      port="8080"
       type="default,supl"
   />
 
@@ -3663,7 +3692,6 @@
       mmsport="8080"
       type="mms"
   />
-
 
   <apn carrier="Fido Internet"
       mcc="302"
