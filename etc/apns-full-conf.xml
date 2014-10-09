@@ -32138,8 +32138,6 @@
       apn="wap.gprs.unifon.com.ar"
       user="wap"
       password="wap"
-      proxy="200.5.68.10"
-      port="8080"
       authtype="1"
       type="default,supl"
   />
