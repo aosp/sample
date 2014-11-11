@@ -2500,6 +2500,13 @@
       mvno_type="gid"
   />
 
+  <apn carrier="agms"
+      mcc="204"
+      mnc="65"
+      apn="agms"
+      type="default,supl"
+  />
+
   <apn carrier="Vip GPRS"
       mcc="220"
       mnc="05"
@@ -9549,6 +9556,13 @@
       roaming_protocol="IP"
       mvno_match_data="6D"
       mvno_type="gid"
+  />
+
+  <apn carrier="agms"
+      mcc="310"
+      mnc="280"
+      apn="agms"
+      type="default,supl"
   />
 
   <apn carrier="T-Mobile US 300"
