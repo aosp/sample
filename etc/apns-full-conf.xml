@@ -5949,7 +5949,7 @@
       type="default,supl"
   />
 
-  <apn carrier="E-Plus Web GPRS"
+  <apn carrier="E-Plus Internet"
       mcc="262"
       mnc="03"
       apn="internet.eplus.de"
