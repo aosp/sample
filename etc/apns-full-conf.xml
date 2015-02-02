@@ -1529,6 +1529,21 @@
       type="mms"
   />
 
+  <apn carrier="Legos"
+      mcc="208"
+      mnc="17"
+      apn="bornsip"
+      type="default,supl"
+  />
+
+  <apn carrier="Legos MMS"
+      mcc="208"
+      mnc="17"
+      mmsc="http://mms.bornsip.fr:8191"
+      apn="bornsipmms"
+      type="mms"
+  />
+
   <apn carrier="Bouygues Telecom"
       mcc="208"
       mnc="20"
